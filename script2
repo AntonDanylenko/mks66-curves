@@ -38,3 +38,6 @@ line
 366 294 0 305 285 0
 line
 305 285 0 67 279 0
+display
+save
+result.png
