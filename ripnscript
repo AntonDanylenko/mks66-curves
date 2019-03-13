@@ -92,14 +92,17 @@ bezier
 266 101 279 103 290 106 300 116
 display
 
+ident
 move
 1 0 0
 apply
 display
+ident
 move
 1 1 0
 apply
 display
+ident
 move
 0 1 0
 apply
@@ -142,14 +145,17 @@ bezier
 261 178 256 186 248 199 246 209
 display
 
+ident
 move
 1 0 0
 apply
 display
+ident
 move
 1 1 0
 apply
 display
+ident
 move
 0 1 0
 apply
