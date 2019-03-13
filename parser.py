@@ -116,8 +116,8 @@ def parse_file( fname, edges, transform, screen, color ):
             if line == 'display':
                 draw_lines(edges, screen, color)
                 display(screen)
-                edges = []
             else:
                 save_extension(screen, args[0])
+                edges = []
 
         c+= 1

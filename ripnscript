@@ -92,6 +92,19 @@ bezier
 266 101 279 103 290 106 300 116
 display
 
+move
+1 0 0
+display
+move
+1 1 0
+display
+move
+0 1 0
+display
+save
+ripndip.png
+
+
 color
 248 103 172
 line
@@ -124,6 +137,16 @@ bezier
 274 173 272 173 266 173 261 178
 bezier
 261 178 256 186 248 199 246 209
+display
+
+move
+1 0 0
+display
+move
+1 1 0
+display
+move
+0 1 0
 display
 save
 ripndip.png
