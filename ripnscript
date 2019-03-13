@@ -232,3 +232,11 @@ apply
 display
 save
 ripndip.png
+
+color
+255 255 255
+line
+7 0 0 15 40 0
+display
+save
+ripndip.png
