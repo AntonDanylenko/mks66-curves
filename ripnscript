@@ -90,10 +90,41 @@ bezier
 230 116 240 108 253 103 266 101
 bezier
 266 101 279 103 290 106 300 116
+display
 
 ident
 scale
 .1 .1 .1
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
 apply
 display
 ident
@@ -147,10 +178,41 @@ bezier
 274 173 272 173 266 173 261 178
 bezier
 261 178 256 186 248 199 246 209
+display
 
 ident
 scale
 .1 .1 .1
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
 apply
 display
 ident
