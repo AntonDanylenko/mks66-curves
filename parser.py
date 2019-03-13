@@ -113,13 +113,12 @@ def parse_file( fname, edges, transform, screen, color ):
             matrix_mult( transform, edges )
 
         elif line == 'display' or line == 'save':
-            clear_screen(screen)
-            draw_lines(edges, screen, color)
-
             if line == 'display':
+                clear_screen(screen)
+                draw_lines(edges, screen, color)
                 display(screen)
+                edges = []
             else:
                 save_extension(screen, args[0])
-                edges = []
 
         c+= 1
