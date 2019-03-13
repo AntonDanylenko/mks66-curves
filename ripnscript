@@ -94,12 +94,15 @@ display
 
 move
 1 0 0
+apply
 display
 move
 1 1 0
+apply
 display
 move
 0 1 0
+apply
 display
 save
 ripndip.png
@@ -141,32 +144,15 @@ display
 
 move
 1 0 0
+apply
 display
 move
 1 1 0
+apply
 display
 move
 0 1 0
-display
-
-move
-2 0 0
-display
-move
-2 2 0
-display
-move
-0 2 0
-display
-
-move
-3 0 0
-display
-move
-3 3 0
-display
-move
-0 3 0
+apply
 display
 save
 ripndip.png
