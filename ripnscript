@@ -97,16 +97,16 @@ move
 1 0 0
 apply
 display
-ident
-move
-1 1 0
-apply
-display
-ident
-move
-0 1 0
-apply
-display
+#ident
+#move
+#1 1 0
+#apply
+#display
+#ident
+#move
+#0 1 0
+#apply
+#display
 save
 ripndip.png
 
