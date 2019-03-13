@@ -115,7 +115,7 @@ def parse_file( fname, edges, transform, screen, color ):
         elif line == 'display' or line == 'save':
             clear_screen(screen)
             draw_lines(edges, screen, color)
-            edges = new_matrix()
+            edges = []
             if line == 'display':
                 display(screen)
             else:
