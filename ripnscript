@@ -93,20 +93,24 @@ bezier
 display
 
 ident
+scale
+.1 .1 .1
+apply
+ident
 move
-1 0 0
+50 0 0
 apply
 display
-#ident
-#move
-#1 1 0
-#apply
-#display
-#ident
-#move
-#0 1 0
-#apply
-#display
+ident
+move
+50 0 0
+apply
+display
+ident
+move
+50 0 0
+apply
+display
 save
 ripndip.png
 
@@ -146,18 +150,22 @@ bezier
 display
 
 ident
+scale
+.1 .1 .1
+apply
+ident
 move
-1 0 0
+50 0 0
 apply
 display
 ident
 move
-1 1 0
+50 0 0
 apply
 display
 ident
 move
-0 1 0
+50 0 0
 apply
 display
 save
